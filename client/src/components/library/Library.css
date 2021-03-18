@@ -1,0 +1,24 @@
+
+
+.library {
+  width: 80%;
+  margin-left: 10%;
+background: #e0e0e0;
+  margin: auto;
+  overflow-x: scroll;
+}
+
+.lib-list {
+  text-align: left;
+  min-width: 700px;
+}
+
+.lib-list td {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.lib-list a {
+  text-decoration: none;
+  color: #333;
+}

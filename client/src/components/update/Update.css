@@ -1,0 +1,32 @@
+
+
+.update-form {
+  width: 100%;
+  background: #e0e0e0;
+  margin: auto;
+}
+
+.update-form .row {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 100%;
+  text-align: left;
+  font-size: 18px;
+  padding-left: 8%;
+}
+
+.update-form input {
+  width: 100%;
+}
+
+.update-form button {
+  width: 50%;
+}
+
+
+@media (min-width: 700px) {
+  .update-form {
+    width: 50%;
+    margin-left: 25%;
+  }
+}
